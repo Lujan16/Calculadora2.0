@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+}
+button {
+    width: 100%;
+    font-size: 150%;
+}
+
+.card{
+    max-width: 18rem;
+    margin-top: 1vw;
+}
+body{
+    align-items: center;
+    display:flex;
+    background: linear-gradient(90deg, #ffd89b,   #19547b); 
+    font-display: swap;
+    height: 90%;
+    justify-content: center;
+    background-attachment: fixed;
+}
+h1{
+    font-size: 300%;
+    font-family: oswald;
+
+ }
